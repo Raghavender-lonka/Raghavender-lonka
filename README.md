@@ -5,9 +5,9 @@
 - 🌱 I’m currently learning NodeJs & MonogoDB
 - 👯 I’m looking to collaborate on Mern Tech to improve and became as an all-rounder in Web Development
 - 📫 How to reach me: 
-      - [LinkedIn](https://www.linkedin.com/in/raghavender-reddy-lonka-a34491203/) 
-      - <a href="mailto:raghavenderreddylonka.1@gmail.com)">Gmail</a>
-      - [My Portfolio](https://raghavender-lonka.github.io/portfolio/)
+      - [LinkedIn](https://www.linkedin.com/in/raghavender-reddy-lonka-a34491203/){:target="_blank"}
+      - <a href="mailto:raghavenderreddylonka.1@gmail.com)" target="_blank">Gmail</a>
+      - [My Portfolio](https://raghavender-lonka.github.io/portfolio/){:target="_blank"}
 - ⚡ Fun fact:
       - GitHub says JavaScript is the Most Popular language in the world.
       - JavaScript is responsible for Web2, precursor to Web3   
