@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate on Mern Tech to improve and became as an all-rounder in Web Development
 - 📫 How to reach me: 
       - [LinkedIn](https://www.linkedin.com/in/raghavender-reddy-lonka-a34491203/) 
-      - [Gmail](raghavenderreddylonka.1@gmail.com)
+      - [Gmail](@mailto:raghavenderreddylonka.1@gmail.com)
 - ⚡ Fun fact:
       - GitHub says JavaScript is the Most Popular language in the world.
       - JavaScript is responsible for Web2, precursor to Web3   
