@@ -17,7 +17,7 @@
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raghavender-lonka&" alt="raghavender-lonka" /></p>
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=raghavender-lonka&show_icons=true&locale=en" alt="raghavender-lonka" /></p>
+<!-- <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=raghavender-lonka&show_icons=true&locale=en" alt="raghavender-lonka" /></p> -->
 
 
 
