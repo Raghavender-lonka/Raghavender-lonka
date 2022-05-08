@@ -7,7 +7,7 @@
 - 📫 How to reach me: 
       - <a href="https://www.linkedin.com/in/raghavender-reddy-lonka-a34491203/" target="_blank">LinkedIn</a>
       - <a href="mailto:raghavenderreddylonka.1@gmail.com" target="_blank">Gmail</a>
-      - <a href="https://raghavender-lonka.github.io/portfolio/" target="_blank">My Portfolio</a>
+      - <a href="https://raghavender-lonka.netlify.app/" target="_blank">My Portfolio</a>
 - ⚡ Fun fact:
       - GitHub says JavaScript is the Most Popular language in the world.
       - JavaScript is responsible for Web2, precursor to Web3   
