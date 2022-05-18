@@ -1,4 +1,5 @@
-### Hello there 👋
+### Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+
 
 - 👋 Hi, I'm Raghavender Reddy Lonka
 - 🧑‍💻I'm Interested in Web Development.
