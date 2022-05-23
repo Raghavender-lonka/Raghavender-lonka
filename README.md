@@ -21,12 +21,6 @@
 <!-- <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=raghavender-lonka&show_icons=true&locale=en" alt="raghavender-lonka" /></p> -->
 
 
-📊 **This Week I Spent My Time On:**
-</br>
-<!--START_SECTION:waka-->
-
-<!--END_SECTION:waka-->
-
 
 
 
