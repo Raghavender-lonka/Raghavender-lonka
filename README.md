@@ -1,9 +1,9 @@
-### Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hello there 
+<!-- <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5px"> -->
 
-
-- 👋 Hi, I'm Raghavender Reddy Lonka
-- 🧑‍💻I'm Interested in Web Development.
-- 🌱 I’m currently learning NodeJs & MonogoDB
+- 👋 I'm Raghavender Reddy Lonka
+- 🧑‍💻 I'm Interested in Web Development.
+- 🌱 I’m currently learning MonogoDB
 - 👯 I’m looking to collaborate on Mern Tech to improve and became as an all-rounder in Web Development
 - 📫 How to reach me: 
       - <a href="https://www.linkedin.com/in/raghavender-reddy-lonka-a34491203/" target="_blank">LinkedIn</a>
