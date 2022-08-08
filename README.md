@@ -3,8 +3,8 @@
 
 - 👋 I'm Raghavender Reddy Lonka
 - 🧑‍💻 I'm Interested in Web Development.
-- 🌱 I’m currently learning MonogoDB
-- 👯 I’m looking to collaborate on Mern Tech to improve and became as an all-rounder in Web Development
+- 🌱 I’m currently learning DevOps
+- 👯 I’m ready to collaborate on Mern Tech or DevOps to improve and became as an all-rounder in Web Development & DevOps
 - 📫 How to reach me: 
       - <a href="https://www.linkedin.com/in/raghavender-reddy-lonka-a34491203/" target="_blank">LinkedIn</a>
       - <a href="mailto:raghavenderreddylonka.1@gmail.com" target="_blank">Gmail</a>
