@@ -2,7 +2,7 @@
 <!-- <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5px"> -->
 
 - 👋 I'm Raghavender Reddy Lonka
-- 🧑‍💻 I'm Interested in Web Development.
+- 🧑‍💻 I'm a Junior Software Engineer.
 - 🌱 I’m currently learning DevOps
 - 👯 I’m ready to collaborate on Mern Tech or DevOps to improve and became as an all-rounder in Web Development & DevOps
 - 📫 How to reach me: 
