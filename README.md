@@ -3,7 +3,7 @@
 
 - 👋 I'm Raghavender Reddy Lonka
 - 🧑‍💻 I'm a Junior Software Engineer.
-- 🌱 I’m currently working in DevOps working with tools like Terraform, New relic, Docker, K8s and others
+- 🌱 I’m currently working on DevOps tools like Terraform, GitHub Actions, New relic, Docker, K8S and others
 - 📫 How to reach me: 
       - <a href="https://www.linkedin.com/in/raghavender-reddy-lonka-a34491203/" target="_blank">LinkedIn</a>
       - <a href="mailto:raghavenderreddylonka.1@gmail.com" target="_blank">Gmail</a>
